@@ -32,7 +32,7 @@ P. Diaconis, 1985:  [Theories of data analysis:  from magical thinking through c
 
 A. Gelman and E. Loken, 2014:  [The statistical crisis in science](https://www.jstor.org/stable/43707868).  *American Scientist*, 102:  460-465.     
 
-B. B. McShane, D. Gal, A. Gelman, C. Robert, and J. L. Tackett, 2019:  [Abandon statisical significance](https://doi.org/10.1080/00031305.2018.1527253).  *The American Statistician*, 73 (sup 1):  235-245.  
+B. B. McShane, D. Gal, A. Gelman, C. Robert, and J. L. Tackett, 2019:  [Abandon statistical significance](https://doi.org/10.1080/00031305.2018.1527253).  *The American Statistician*, 73 (sup 1):  235-245.  
 
 S. Greenland, 2017:  [The need for cognitive science in methodology](https://doi.org/10.1093/aje/kwx259).  *American Journal of Epidemiology*, 186:  639-645.  
 
@@ -40,6 +40,6 @@ S. Greenland, 2017:  [The need for cognitive science in methodology](https://doi
 
 The views expressed here are mine alone, and do not necessarily reflect the policies, views, or opinions of my employer.
 
-Minor edit (12 Nov 2025):  corrected Taleb and Greenland citations.
+Minor edit (12 Nov 2025):  corrected Taleb, McShane et al., and Greenland citations.
 
 (c) Copyright 2025 by Christopher Tong.  All rights reserved.
