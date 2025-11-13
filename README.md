@@ -28,7 +28,8 @@ C. Chatfield, 1995:  [Model uncertainty, data mining, and statistical inference]
 
 W. Feller, 1970:  *An Introduction to Probability Theory and Its Applications*, revised third edition.  New York:  Wiley.
 
-P. Diaconis, 1985:  [Theories of data analysis:  from magical thinking through classical statistics](https://doi.org/10.1002/9781118150702.ch1).  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  New York:  Wiley, pp. 1-36.   
+P. Diaconis, 1985:  [Theories of data analysis:  from magical thinking through classical statistics](https://doi.org/10.1002/9781118150702.ch1).  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  New York:  Wiley, pp. 1-36. 
+
 A. Gelman and E. Loken, 2014:  [The statistical crisis in science](https://www.jstor.org/stable/43707868).  *American Scientist*, 102:  460-465.     
 
 B. B. McShane, D. Gal, A. Gelman, C. Robert, and J. L. Tackett, 2019:  [Abandon statisical significance](https://doi.org/10.1080/00031305.2018.1527253).  *The American Statistician*, 73 (sup 1):  235-245.  
